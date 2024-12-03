@@ -207,7 +207,7 @@ background-color: #2E2F42;
     max-width: 496px;
 }
 
-.section2 {
+.second-section {
     background-color: #FFFFFF;
     padding: 120px 0;
      
@@ -237,6 +237,9 @@ background-color: #2E2F42;
 .section-ul .list.section-third-list {
     width: calc((100% - 48px) / 4);
 }
+
+
+
 
 .section-ul .list.section-second-list {
     width: calc((100% - 72px) / 4);
@@ -278,7 +281,7 @@ width: calc((100% - 72px) / 4);
 
 
 
-.section2 .section-ul .list .subtitle {
+.second-section .section-ul .list .subtitle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
