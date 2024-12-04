@@ -268,7 +268,7 @@ background-color: #2E2F42;
     width: calc((100% - 48px) / 3);
 }
 
-.last:nth-child(3n) {
+.div-sec-four:nth-child(3n) {
     margin-right: 0;
     margin-bottom: 0;
 }
