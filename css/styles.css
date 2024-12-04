@@ -241,7 +241,7 @@ background-color: #2E2F42;
 
 
 
-.section-ul .list.section-second-list {
+.section-ul .section-second-list {
     width: calc((100% - 72px) / 4);
 }
 
@@ -323,11 +323,7 @@ text-align: center;
     padding: 120px 0;
 }
 
-.four {
-    flex-wrap: wrap;
-    column-gap: 24px;
-    row-gap: 48px;
-}
+
 
 .footer {
     background-color: #2E2F42;
