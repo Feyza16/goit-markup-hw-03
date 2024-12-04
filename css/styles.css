@@ -121,13 +121,13 @@ gap: 76px;
 }
 
 .address .address-link{
- 
+display: flex;
     margin-right: 156px;
     
 }
 
 .address-link .list{
-    display: flex;
+   
     margin-right:40px ;
 }
 
