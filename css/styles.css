@@ -251,6 +251,10 @@ background-color: #2E2F42;
 
 .div-sec-four {
     padding: 32px 16px;
+    margin-bottom: 8px;
+    border: 1px solid #e7e9fc;
+        border-top: none;
+      
   
 }
 
